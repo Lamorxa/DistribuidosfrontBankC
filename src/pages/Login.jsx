@@ -51,7 +51,7 @@ export default function Login() {
     <div className="containerPrincipal">
       <div className="containerSecundario">
         <div className="form-group">
-          <label>BANCO A</label>
+          <label>BANCO C</label>
           <br />
           <label>DNI del usuario</label>
           <br />
