@@ -6,7 +6,7 @@ export default function Navar() {
       <nav class="navbar navbar-expand-lg mx-5 mb-5" style={{ width: "100%"}}>
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
-            BANCO A
+            BANCO C
           </a>
           <button
             class="navbar-toggler"
